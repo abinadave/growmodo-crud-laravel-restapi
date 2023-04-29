@@ -8,7 +8,8 @@ Please check the official laravel installation guide for server requirements bef
 Clone the repository
 git clone https://github.com/abinadave/growmodo-crud-laravel-restapi.git
 
-Switch to the repo folder
+<br>
+Switch to the repo folder<br>
 cd <Project Name>
   
 Install all the dependencies using composer
