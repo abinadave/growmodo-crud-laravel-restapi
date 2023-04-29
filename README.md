@@ -10,7 +10,7 @@ git clone https://github.com/abinadave/growmodo-crud-laravel-restapi.git
 
 <br>
 Switch to the repo folder<br>
-cd <Project Name><br>
+cd [Project Folder Name]<br>
 
  <br>
 Install all the dependencies using composer<br>
